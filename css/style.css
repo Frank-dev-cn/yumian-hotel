@@ -2,8 +2,11 @@ body {
   font-family: Arial, sans-serif;
   background-color: #f9f9f9;
   color: #333;
-  text-align: center;
   padding: 20px;
+}
+
+main {
+  text-align: left;
 }
 img {
   max-width: 100%;
