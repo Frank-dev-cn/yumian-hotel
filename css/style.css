@@ -17,3 +17,7 @@ button {
   font-size: 16px;
   margin-top: 10px;
 }
+
+li {
+  margin-bottom: 10px; /* 增加列表项之间的间距 */
+}
